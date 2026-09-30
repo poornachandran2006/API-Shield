@@ -19,4 +19,4 @@ Database: SQLite / PostgreSQL
 ## Setup Instructions
 (Setup instructions coming soon...)
 
-Status: In development
+Status: Alpha release
